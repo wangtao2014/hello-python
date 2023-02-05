@@ -1,0 +1,2 @@
+A function can take arguments and return values,
+In the following example.
