@@ -10,6 +10,8 @@ import heaps
 import my_deque
 import my_string
 
+from application import Application
+
 
 # Python Built-in Data Types
 def build_in_data_type():
@@ -120,4 +122,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    app = Application()
+    app.master.title('hello worldxxx')
+    app.mainloop()
+
